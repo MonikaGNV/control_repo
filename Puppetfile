@@ -3,4 +3,4 @@ mod 'puppetlabs/concat'
 mod 'puppetlabs/stdlib'
 mod 'puppetlabs/translate'
 mod 'pltraining/dockeragent'
-mod 'puppetlabs/docker',
+mod 'puppetlabs/docker'
